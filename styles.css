@@ -6,7 +6,7 @@ p {text-align: center; max-width: 800px}
 div {text-align: center;}
 figure {text-align: center;}
 audio {text-align: center;}
-table {text-align: center; align: center}
+table {text-align: center; align: center; margin-left: auto; margin-right: auto}
 
 table th,
 table td {
